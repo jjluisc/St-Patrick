@@ -352,7 +352,7 @@ a{
         grid-template-columns: 1fr 1fr 1fr;
     }
     .dropdown{
-        transform: translateX(-15px);
+        transform: translateX(-24px);
     }    
     .hide {
         display: none;
