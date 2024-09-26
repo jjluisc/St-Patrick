@@ -352,7 +352,7 @@ a{
         grid-template-columns: 1fr 1fr 1fr;
     }
     .dropdown{
-        transform: translateX(-24px);
+        transform: translateX(-15px);
     }    
     .hide {
         display: none;
@@ -434,6 +434,12 @@ a{
             }
         }
         }
+
+@media (max-width:500px){
+    .list-items-with-description{
+        grid-template-columns: 1fr 1fr;
+    }
+}
 
   @media (min-width: 730px) { 
 .sidebar {
