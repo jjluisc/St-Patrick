@@ -440,7 +440,7 @@ a{
         grid-template-columns: 1fr 1fr;
     }
     .trans-cardb{
-        transform: translateY(-50%, -340px);
+        transform: translateY(-50%, -380px);
        }
 }
 
