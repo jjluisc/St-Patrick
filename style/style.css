@@ -604,7 +604,7 @@ a{
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     border-radius: 20px;
-    border: 0.1px solid rgb(255, 255, 255);
+    box-shadow: 1px 2px 3px rgb(255, 255, 255);
 
 }
 .trans-card h4{
@@ -761,6 +761,7 @@ a{
         margin-bottom: 0;
         padding-bottom: 0;
     }
+
     .trans-cardb{
         width: 400px;
         height: 100px;
@@ -805,6 +806,13 @@ a{
         width: 447px;
         height: 250px;
         flex-wrap: wrap;
+    }
+    #nos-id{
+        height: 450px;
+    }
+    #nos-id img{
+        width: 200px;
+        height: 450px;
     }
 }
 
