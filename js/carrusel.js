@@ -8,7 +8,7 @@ const btnLeft=document.querySelector(".btn-left"),
 
       setInterval (() =>{
         moveToRight();
-      }, 3000 )
+      }, 5000 )
 
       let operacion= 0;
           counter=0;
